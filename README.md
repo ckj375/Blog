@@ -2,6 +2,11 @@
 
 #### Java基础
 #### Android基础
+#### Android进阶
+Gradle教程
+http://www.cnblogs.com/davenkin/p/gradle-learning-1.html
+
+Groovy
 
 #### Android开源库
 网络请求：OKHttp,Retrofit,Volley
@@ -25,3 +30,6 @@ Log框架：Logger
 热修复框架：AndFix,Tinker
 
 事件总线：EventBus
+
+### 工具资源
+Git
