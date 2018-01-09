@@ -1,12 +1,22 @@
 # Android-Tech-Stack
 
 #### Java基础
+#### Java进阶
+设计模式
+
 #### Android基础
 #### Android进阶
-Gradle教程
+Ant教程
+https://www.w3cschool.cn/ant/
+Maven教程
+https://www.w3cschool.cn/maven/u7oe1ht0.html
+Gradle基础教程
 http://www.cnblogs.com/davenkin/p/gradle-learning-1.html
-
-Groovy
+Android项目中Gradle详解
+http://blog.csdn.net/wqc_CSDN/article/details/53572921
+Groovy教程
+http://blog.csdn.net/iamzgx/article/details/72972255教程
+多渠道打包
 
 #### Android开源库
 网络请求：OKHttp,Retrofit,Volley
