@@ -37,8 +37,10 @@ JSON解析：Gson,FastJson,jackson
 Html解析：Jsoup
 
 Log框架：Logger
+https://github.com/orhanobut/logger
 
 调试框架：stetho
+https://github.com/facebook/stetho
 
 依赖注入：ButterKnife,Dagger2
 
