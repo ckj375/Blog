@@ -16,7 +16,12 @@ Android项目中Gradle详解
 http://blog.csdn.net/wqc_CSDN/article/details/53572921
 Groovy教程
 http://blog.csdn.net/iamzgx/article/details/72972255教程
-多渠道打包：
+多渠道打包：productFlavors
+http://chenkaijian.com/2018/01/12/android-gradle-productflavors/
+多渠道打包：AndroidMultiChannelBuildTool
+https://github.com/GavinCT/AndroidMultiChannelBuildTool
+多渠道打包：walle
+https://github.com/Meituan-Dianping/walle
 
 #### Android开源库
 网络请求：OKHttp,Retrofit,Volley
