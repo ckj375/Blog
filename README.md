@@ -22,6 +22,7 @@ http://chenkaijian.com/2018/01/12/android-gradle-productflavors/
 https://github.com/GavinCT/AndroidMultiChannelBuildTool
 多渠道打包：walle
 https://github.com/Meituan-Dianping/walle
+内存泄露
 
 #### Android开源库
 网络请求：OKHttp,Retrofit,Volley
