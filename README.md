@@ -28,10 +28,12 @@ https://github.com/Meituan-Dianping/walle
 网络请求：OKHttp,Retrofit,Volley
 
 响应式编程：RxJava
+https://github.com/ReactiveX/RxJava/
 
 图片加载相关：Universal-Image-Loader,Picasso,Glide,Fresco
 
 性能优化：LeakCanary
+https://github.com/square/leakcanary/
 
 JSON解析：Gson,FastJson,jackson
 
@@ -48,6 +50,7 @@ https://github.com/facebook/stetho
 热修复框架：AndFix,Tinker
 
 事件总线：EventBus
+https://github.com/greenrobot/EventBus/
 
 ### 工具资源
 Git
