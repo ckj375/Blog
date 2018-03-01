@@ -3,8 +3,16 @@
 #### Java基础
 #### Java进阶
 设计模式
+https://www.cnblogs.com/snow-flower/p/6110403.html
 
 #### Android基础
+事件分发机制
+http://www.jianshu.com/p/e99b5e8bd67b
+自定义View
+https://www.jianshu.com/p/c84693096e41
+AIDL
+https://juejin.im/post/58d39de6a22b9d00644eb60b
+
 #### Android进阶
 Ant教程
 https://www.w3cschool.cn/ant/
