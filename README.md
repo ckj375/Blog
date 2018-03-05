@@ -10,6 +10,8 @@ https://www.cnblogs.com/snow-flower/p/6110403.html
 http://www.jianshu.com/p/e99b5e8bd67b  
 自定义View  
 https://www.jianshu.com/p/c84693096e41  
+Android Handler原理  
+https://segmentfault.com/a/1190000004866028  
 AIDL  
 https://juejin.im/post/58d39de6a22b9d00644eb60b  
 
