@@ -9,7 +9,7 @@ https://www.cnblogs.com/snow-flower/p/6110403.html
 事件分发机制  
 http://www.jianshu.com/p/e99b5e8bd67b  
 自定义View  
-https://www.jianshu.com/p/c84693096e41  
+http://hencoder.com/ui-1-1/
 Android Handler原理  
 https://segmentfault.com/a/1190000004866028  
 AIDL  
@@ -62,4 +62,8 @@ https://github.com/Tencent/tinker
 https://github.com/greenrobot/EventBus/  
 
 ### 工具资源
+Wireshark网络抓包  
+http://chenkaijian.com/2017/12/20/android-debug-wireshark/  
+Fiddler网络抓包  
+http://blog.csdn.net/lyd135364/article/details/78384285  
 Git  
