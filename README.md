@@ -9,7 +9,7 @@ https://www.cnblogs.com/snow-flower/p/6110403.html
 事件分发机制  
 http://www.jianshu.com/p/e99b5e8bd67b  
 自定义View  
-http://hencoder.com/ui-1-1/
+http://hencoder.com/ui-1-1/  
 Android Handler原理  
 https://segmentfault.com/a/1190000004866028  
 AIDL  
@@ -34,6 +34,8 @@ https://github.com/GavinCT/AndroidMultiChannelBuildTool
 https://github.com/Meituan-Dianping/walle  
 内存泄露  
 http://chenkaijian.com/2016/05/10/Android%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E6%80%BB%E7%BB%93/  
+Android类加载机制  
+https://www.jianshu.com/p/7193600024e7  
 
 #### Android开源库
 网络请求：OKHttp,Retrofit,Volley  
