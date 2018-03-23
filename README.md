@@ -12,6 +12,8 @@ http://www.jianshu.com/p/e99b5e8bd67b
 http://hencoder.com/ui-1-1/  
 Android Handler原理  
 https://segmentfault.com/a/1190000004866028  
+Android线程与线程池  
+https://blog.csdn.net/weixin_36244867/article/details/72832632  
 AIDL  
 https://juejin.im/post/58d39de6a22b9d00644eb60b  
 
