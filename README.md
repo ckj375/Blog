@@ -14,8 +14,6 @@ Android Handler原理
 https://segmentfault.com/a/1190000004866028  
 Android线程与线程池  
 https://blog.csdn.net/weixin_36244867/article/details/72832632  
-AIDL  
-https://juejin.im/post/58d39de6a22b9d00644eb60b  
 
 #### Android进阶
 Ant教程  
@@ -36,8 +34,14 @@ https://github.com/GavinCT/AndroidMultiChannelBuildTool
 https://github.com/Meituan-Dianping/walle  
 内存泄露  
 http://chenkaijian.com/2016/05/10/Android%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E6%80%BB%E7%BB%93/  
+Android Binder机制  
+https://juejin.im/post/5acccf845188255c3201100f  
+AIDL  
+https://juejin.im/post/58d39de6a22b9d00644eb60b  
 Android类加载机制  
 https://www.jianshu.com/p/7193600024e7  
+Android组件化  
+https://blog.csdn.net/asddavid/article/details/53436848  
 
 #### Android开源库
 网络请求：OKHttp,Retrofit,Volley  
