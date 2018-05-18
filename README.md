@@ -42,8 +42,6 @@ Android类加载机制
 https://www.jianshu.com/p/7193600024e7  
 Android组件化  
 https://blog.csdn.net/asddavid/article/details/53436848  
-Android模块间通信  
-https://github.com/alibaba/ARouter  
 
 #### Android开源库
 网络请求：OKHttp,Retrofit,Volley  
@@ -70,6 +68,8 @@ https://github.com/google/dagger/
 https://github.com/Tencent/tinker  
 事件总线：EventBus  
 https://github.com/greenrobot/EventBus/  
+Android模块间通信  
+https://github.com/alibaba/ARouter  
 
 ### 工具资源
 Wireshark网络抓包  
