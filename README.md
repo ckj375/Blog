@@ -52,6 +52,7 @@ https://github.com/google/volley
 https://github.com/ReactiveX/RxJava/  
 图片加载相关：Universal-Image-Loader,Picasso,Glide,Fresco  
 https://github.com/bumptech/glide  
+https://mrfu.me/2016/02/27/Glide_Thumbnails/　　
 性能优化：LeakCanary  
 https://github.com/square/leakcanary/  
 JSON解析：Gson,FastJson,jackson  
