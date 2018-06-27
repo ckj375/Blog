@@ -10,8 +10,9 @@ https://www.cnblogs.com/snow-flower/p/6110403.html
 http://www.jianshu.com/p/e99b5e8bd67b  
 自定义View  
 http://hencoder.com/ui-1-1/  
-Android Handler原理  
+Android Handler机制  
 https://segmentfault.com/a/1190000004866028  
+https://www.jianshu.com/p/f70ee1765a61  
 Android线程与线程池  
 https://blog.csdn.net/weixin_36244867/article/details/72832632  
 
