@@ -43,6 +43,8 @@ Android类加载机制
 https://www.jianshu.com/p/7193600024e7  
 Android组件化  
 https://blog.csdn.net/asddavid/article/details/53436848  
+反编译教程  
+http://www.jianshu.com/p/b3bb4da64dc7  
 
 #### Android开源库
 网络请求：OKHttp,Retrofit,Volley  
