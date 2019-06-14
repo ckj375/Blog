@@ -3,7 +3,7 @@
 基础工具相关
 -------------------------------------------------------------------------------
 Git相关
-http://chenkaijian.com/2018/04/26/git/
+https://github.com/ckj375/Android-Sticker
 
 Git Flow
 https://www.cnblogs.com/hblflu/p/6494950.html
