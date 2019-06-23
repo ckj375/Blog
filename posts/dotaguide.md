@@ -19,9 +19,7 @@ Dota攻略的核心功能就是提供英雄的出装，加点以及技能信息�
 数据解析：Jsoup
 
 项目地址：https://github.com/ckj375/DotaGuide  
-效果图：
-<center>
+效果图：    
 ![img](https://raw.githubusercontent.com/ckj375/img-folder/master/dotaguide/dotaguide1.jpg)
 ![img](https://raw.githubusercontent.com/ckj375/img-folder/master/dotaguide/dotaguide2.jpg)
 ![img](https://raw.githubusercontent.com/ckj375/img-folder/master/dotaguide/dotaguide3.jpg)
-</center>
