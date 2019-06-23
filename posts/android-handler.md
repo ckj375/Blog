@@ -11,7 +11,7 @@
 -2.3 Handler如何接收消息？    
 -2.4 Handler消息机制原理图
 
-### Handler的作用
+### 1 Handler的作用
 Handler主要用于线程间通信。
 
 举个例子：
@@ -38,9 +38,9 @@ new Thread(new Runnable() {
 }).start();
 ```
 
-### Handler消息机制原理
+### 2 Handler消息机制原理
 Handler消息机制涉及到几个重要的类，分别是Looper（消息循环器），MessageQueue（即消息队列，用于存放消息，它基于单链表的数据结构）和Message。简单概述就是Handler对象发送Message给MessageQueue，Looper从MessageQueue中取出Message交还给Handler对象处理。
-#### MessageQueue和Looper的关系？
+#### 2.1 MessageQueue和Looper的关系？
 MessageQueue是在Looper中创建的，创建Looper对象时会同时创建一个MessageQueue对象（注：主线程中无需手动创建Looper对象，系统已为我们自动创建Looper对象并开启消息循环），由此可知Looper对象和MessageQueue对象是一对一的关系。
 ```
 // Looper构造器
@@ -95,7 +95,7 @@ private static void prepare(boolean quitAllowed) {
        sThreadLocal.set(new Looper(quitAllowed));
 }
 ```
-#### Handler如何发送消息？
+#### 2.2 Handler如何发送消息？
 
 ![img](https://github.com/ckj375/img-folder/blob/master/android-handler/pic02.png?raw=true)
 Handler发送Message给MessageQueue，我们以sendMessage(Message msg)为例，经过一系列的方法最终会走到enqueueMessage(MessageQueue queue, Message msg, long uptimeMillis)方法，将消息插入到消息队列中，按发送的时间大小进行排列，与此同时，会通过msg.target = this将当前Handler对象赋给Message对象。
@@ -115,8 +115,8 @@ private boolean enqueueMessage(MessageQueue queue, Message msg, long uptimeMilli
         return queue.enqueueMessage(msg, uptimeMillis);
     }
 ```
-#### Handler如何接收消息？
+#### 2.3 Handler如何接收消息？
 通过调用Looper.loop()开启消息循环后，会依次取出消息队列中的Message，并调用msg.target.dispatchMessage(msg)，这个target前面有提到，就是Handler对象自身，Handler在发送消息时会将自身引入到Message中。这下我们就明白了，消息时通过Handler的dispatchMessage(msg)方法进行分发，然后通过Handler的回调方法handleMessage(msg)去处理消息。
-#### Handler消息机制流程图
+#### 2.4 Handler消息机制流程图
 最后我们再来看一下整个消息机制的流程图：
 ![img](https://github.com/ckj375/img-folder/blob/master/android-handler/pic03.png?raw=true)
