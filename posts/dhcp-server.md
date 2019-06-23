@@ -1,9 +1,8 @@
-# <center>Android电视盒子联调：使用DHCP Server</center>
+# Android电视盒子联调：使用DHCP Server
 最近在东方有线机房联调碰到个问题，东方有线的Android电视盒子是用同轴线接入封闭内网的，笔记本无法访问内网，所以就无法连接Android电视盒子。还好Android电视盒子预留了一个网口，所以就通过DHCP Server搭建一个局域网，给Android电视盒子分配一个ip，这样笔记本就可以连上Android电视盒子进行调试了。首先需要手动设置以太网网卡IPV4地址为192.168.10.1，子网掩码为255.255.255.0
-<!-- more -->
 
-打开dhcpwiz.exe，选择本地连接，下一步；
-![img](https://raw.githubusercontent.com/ckj375/img-folder/master/dhcp-server/pic01.png)  
+打开dhcpwiz.exe，选择本地连接，下一步； 
+![img](https://raw.githubusercontent.com/ckj375/img-folder/master/dhcp-server/pic01.png) 
 
 勾选HTTP (Web Server)，下一步；  
 ![img](https://raw.githubusercontent.com/ckj375/img-folder/master/dhcp-server/pic02.png)  
