@@ -15,5 +15,6 @@
 # 2016
 * 20160908 [Android贴图功能详解](https://github.com/ckj375/Blog/blob/master/posts/android-sticker.md)
 * 20160720 [如何在Android源码中为APK签系统签名？](https://github.com/ckj375/Blog/blob/master/posts/android-source-signature.md)
+* 20160719 [Android Studio：Gradle常用命令](https://github.com/ckj375/Blog/blob/master/posts/android-studio-gradle.md)
 * 20160510 [Android内存泄露总结](https://github.com/ckj375/Blog/blob/master/posts/android-memory-leak.md)
 * 20160316 [Github上搭建Hexo博客](https://github.com/ckj375/Blog/blob/master/posts/github-hexo-blog.md)
