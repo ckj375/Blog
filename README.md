@@ -4,6 +4,7 @@
 # 2018
 * 20180426 [学习Git看这一篇就够](https://github.com/ckj375/Blog/blob/master/posts/git.md)
 * 20180226 [Android开发实战之Dota攻略](https://github.com/ckj375/Blog/blob/master/posts/dotaguide.md)
+* 20180226 [Gradle中productFlavors使用详解](https://github.com/ckj375/Blog/blob/master/posts/android-gradle-productflavors.md)
 
 # 2017
 * 20171220 [Android调试技巧之Wireshark抓包](https://github.com/ckj375/Blog/blob/master/posts/android-debug-wireshark.md)
