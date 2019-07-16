@@ -12,3 +12,4 @@
 
 # 2016
 * 20160908 [Android贴图功能详解](https://github.com/ckj375/Blog/blob/master/posts/android-sticker.md)
+* 20160510 [Android内存泄露总结](https://github.com/ckj375/Blog/blob/master/posts/android-memory-leak.md)
