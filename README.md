@@ -3,6 +3,7 @@
 * 20190201 [初识长连接](https://github.com/ckj375/Blog/blob/master/posts/long-connection.md)
 
 # 2018
+* 20180612 [浅析智能音箱](https://github.com/ckj375/Blog/blob/master/posts/voice-box.md)
 * 20180426 [学习Git看这一篇就够](https://github.com/ckj375/Blog/blob/master/posts/git.md)
 * 20180411 [Android开发实战之考勤助手](https://github.com/ckj375/Blog/blob/master/posts/attendance-assistant.md)
 * 20180226 [Android开发实战之Dota攻略](https://github.com/ckj375/Blog/blob/master/posts/dotaguide.md)
